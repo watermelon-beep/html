@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    transform: translateY(50px);
+    justify-content: space-between;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.remove-button {
+    transform: translateX(-500px);
+}
