@@ -13,11 +13,7 @@ body {
 .container {
     display: flex;
     color: rgb(175, 172, 172);
-<<<<<<< HEAD
     background-color: rgb(49, 49, 49);
-=======
-    background-color: black;
->>>>>>> 9929bddcd626daa8390f89f922a65041a8a80ca0
     width: 40%;
     height: 100dvh;
 }
